@@ -35,5 +35,5 @@ Sistema web con backend y frontend, incluyendo gestión de productos y pedidos, 
 
 ## 📫 Contacto
 
-📧 tucorreo@email.com  
-🔗 LinkedIn (opcional)
+📧 floreschavezeliansalomon@gmail.com
+🔗 www.linkedin.com/in/elian-salomon-flores-chavez-8267503a5
