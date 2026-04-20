@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Elian 👋</h1>
+<h1 align="center">Hola, soy Elian Salomon Flores Chavez👋</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ElianSalomon/ElianSalomon/main/bannerElian.png" alt="banner" />
