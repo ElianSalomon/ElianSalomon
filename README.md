@@ -8,10 +8,10 @@
 
 ## 🚀 Sobre mí
 
-💻 Desarrollador Backend enfocado en Java y Spring Boot  
-🔧 Experiencia en APIs REST, microservicios y sistemas web  
-🛠️ Uso de tecnologías como JPA, Spring Security y bases de datos relacionales  
-🌐 Conocimientos en React y despliegue en la nube (Azure, Google Cloud)  
+💻 Desarrollador Backend con enfoque en Java y Spring Boot  
+⚙️ Experiencia en desarrollo de APIs REST, microservicios y sistemas web  
+🛠️ Trabajo con JPA, Spring Security y bases de datos relacionales  
+🌐 Conocimientos en React y despliegue en la nube  
 
 ---
 
@@ -23,29 +23,17 @@
 
 ---
 
-## 🔥 Proyectos Destacados
+## 🔥 Proyectos
 
 ### 🧾 Sistema de Gestión y Reservaciones
-- Arquitectura de microservicios con Java y Spring Boot  
-- APIs REST con Spring Security  
-- JPA / Hibernate para persistencia  
-- Integración con frontend en React  
-- Despliegue en la nube y uso de Docker  
-
----
+Backend con arquitectura de microservicios en Java y Spring Boot, APIs REST seguras y persistencia con JPA/Hibernate. Integración con frontend en React y despliegue en la nube.
 
 ### 🛒 Sistema de Gestión Comercial
-- Backend y frontend para control de productos, pedidos y usuarios  
-- Integración de pagos con API de Mercado Pago  
-- Sistema de autenticación y recuperación de contraseñas  
+Sistema web con backend y frontend, incluyendo gestión de productos y pedidos, autenticación de usuarios e integración de pagos con Mercado Pago.
 
 ---
 
 ## 📫 Contacto
 
-📧 Tu correo aquí  
+📧 tucorreo@email.com  
 🔗 LinkedIn (opcional)
-
----
-
-⭐ Gracias por visitar mi perfil
