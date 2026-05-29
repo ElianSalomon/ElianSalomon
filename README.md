@@ -25,20 +25,19 @@ Soy un **Desarrollador Backend** especializado en **Java y PHP**. Mi enfoque pro
 
 ---
 
-
 ## 📈 Actividad y Estadísticas
 *El código consistente es el reflejo de la mejora continua.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElianSalomon&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub de Elian Salomon" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElianSalomon&theme=radical&hide_border=true" alt="Racha de Commits de Elian Salomon" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElianSalomon&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElianSalomon&theme=radical&hide_border=true" alt="Racha de Commits" />
 </p>
 
 ---
 
 ## 📫 Contacto y Redes
 
-Si buscas un arquitecto de software que entienda el "porqué" detrás de la tecnología y no solo el "cómo", hablemos:
+Si buscas un desarrollador que entienda el "porqué" detrás de la tecnología y no solo el "cómo", hablemos:
 
 * 📧 **Email:** [floreschavezeliansalomon@gmail.com](mailto:floreschavezeliansalomon@gmail.com)
 * 🔗 **LinkedIn:** [Elian Salomon Flores Chavez](https://www.linkedin.com/in/elian-salomon-flores-chavez-8267503a5)
