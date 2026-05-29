@@ -12,15 +12,15 @@ Soy un **Desarrollador Backend** especializado en **Java y PHP**. Mi enfoque pro
 
 * ⚙️ **Arquitectura de Software:** Diseño de ecosistemas de microservicios (Spring Cloud, API Gateways, Service Discovery con Eureka) y sistemas monolíticos estructurados bajo patrones MVC estrictos.
 * 🛡️ **Seguridad y Autorización:** Implementación de seguridad reactiva centralizada, control de acceso basado en roles (RBAC), flujos de autenticación con JWT y cifrado de credenciales (BCrypt).
+* 🗄️ **Persistencia y Modelado de Datos:** Diseño avanzado de bases de datos relacionales utilizando **PostgreSQL** y **MySQL**. Aplicación de estrategias de aislamiento de datos por servicio, optimización de consultas, mapeo relacional con Hibernate/JPA y control estricto de integridad para flujos críticos y datos sensibles.
 * 💻 **Fundamentos Sólidos:** Priorizo la lógica de negocio y el "código puro", evitando la dependencia excesiva de frameworks cuando el rendimiento y el control de la petición exigen desarrollos a la medida.
-* 🌐 **Ecosistema Multiplataforma:** Capacidad demostrada para diseñar y consumir APIs robustas en .NET (C#) y Node.js, garantizando una integración impecable con cualquier interfaz cliente.
 
 ---
 
 ## 🧠 Tecnologías y Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,cs,dotnet,nodejs,hibernate,mysql,postgres,js,react,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,hibernate,postgres,mysql,docker,git,github,postman" />
 </p>
 
 ---
