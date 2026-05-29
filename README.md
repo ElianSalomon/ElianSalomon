@@ -29,7 +29,6 @@ Soy un **Desarrollador Backend** especializado en **Java y PHP**. Mi enfoque pro
 *El código consistente es el reflejo de la mejora continua.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElianSalomon&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElianSalomon&theme=radical&hide_border=true" alt="Racha de Commits" />
 </p>
 
