@@ -25,35 +25,6 @@ Soy un **Desarrollador Backend** especializado en **Java y PHP**. Mi enfoque pro
 
 ---
 
-## 🔥 Proyectos Destacados (Arquitectura y Desarrollo)
-
-### 🏥 Sistema Hospitalario Distribuido: Ecosistema de Microservicios Seguros
-*Arquitectura backend orientada a la gestión clínica, diseñada con un perímetro de seguridad estricto y enrutamiento dinámico.*
-* **Stack:** Java 17, Spring Boot 3, Spring Cloud Gateway, Netflix Eureka, Spring Security (Reactivo), JWT, BCrypt, OpenFeign.
-* **Impacto Técnico:**
-  * **Seguridad Perimetral (RBAC):** Autenticación centralizada en el API Gateway (`8080`) que intercepta peticiones, valida firmas JWT y aplica reglas de autorización por roles (`MEDICO`, `RECEPCIONISTA`) devolviendo `401/403` antes de que el tráfico alcance la lógica de negocio.
-  * **Desacoplamiento Clínico:** Módulos de negocio (`ms-pacientes`, `ms-citas`, `ms-recetas`) operando de forma 100% aislada en la red interna, con bases de datos independientes.
-  * **Gestión de Credenciales:** Microservicio `ms-auth` dedicado exclusivamente a la generación de tokens y validación de contraseñas hasheadas.
-
-### 🏫 SINEM: Plataforma Integral de Diagnóstico y Planificación Escolar
-*Sistema informático para la optimización de la carga administrativa docente y la gestión de estrategias pedagógicas.*
-* **Stack:** PHP (Código Puro), Arquitectura MVC, MySQL, HTML5/CSS3.
-* **Impacto Técnico:**
-  * **Ingeniería sin Frameworks:** Construcción total del sistema desde cero utilizando código puro para garantizar máxima eficiencia, control absoluto del ciclo de vida de la petición y un renderizado ultrarrápido.
-  * **Seguridad y Ética de Datos:** Modelado de base de datos diseñado para el resguardo estricto y ético de información sensible de menores (CURP, evaluaciones), alineado a normativas de privacidad.
-  * **Generación de Reportes:** Módulo de procesamiento automatizado para el cálculo de rúbricas y consolidación de diarios de evidencia.
-
-### 🧾 Ecosistema Cloud: Gestión de Restaurante y Reservaciones
-*Red de microservicios para la orquestación de consumo, inventario y asignación de mesas.*
-* **Stack:** Java, Spring Boot, Eureka Server, Docker, JPA/Hibernate.
-* **Impacto Técnico:** Separación estricta de dominios, despliegue modular en contenedores y descubrimiento de servicios dinámico para soportar alta concurrencia en reservas.
-
-### 🛒 Plataforma Comercial e Integración de Pagos
-*Sistema integral para control de inventario y procesamiento de transacciones web.*
-* **Stack:** Backend en C# (.NET Core) / Java, Entity Framework, integraciones con Mercado Pago API.
-* **Impacto Técnico:** Diseño de controladores RESTful, mapeo relacional eficiente (ORM) y consumo fluido de webhooks para la validación asíncrona de pagos de terceros.
-
----
 
 ## 📈 Actividad y Estadísticas
 *El código consistente es el reflejo de la mejora continua.*
