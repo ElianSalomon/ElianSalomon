@@ -8,7 +8,7 @@
 
 ## 🚀 Perfil Técnico y Visión
 
-Soy un **Desarrollador Backend** especializado en **Java y PHP**. Mi enfoque profesional radica en el diseño de arquitecturas distribuidas, la seguridad perimetral y el desarrollo en "código puro". Construyo software pensando en la escalabilidad, la cohesión de los componentes y la responsabilidad ética en el manejo de datos.
+Soy un **Desarrollador Backend** especializado en **Java y Cloudflare**. Mi enfoque profesional radica en el diseño de arquitecturas distribuidas, la seguridad perimetral y el desarrollo en "código puro". Construyo software pensando en la escalabilidad, la cohesión de los componentes y la responsabilidad ética en el manejo de datos.
 
 * ⚙️ **Arquitectura de Software:** Diseño de ecosistemas de microservicios (Spring Cloud, API Gateways, Service Discovery con Eureka) y sistemas monolíticos estructurados bajo patrones MVC estrictos.
 * 🛡️ **Seguridad y Autorización:** Implementación de seguridad reactiva centralizada, control de acceso basado en roles (RBAC), flujos de autenticación con JWT y cifrado de credenciales (BCrypt).
